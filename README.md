@@ -1,2 +1,2 @@
 # pasteScraper
-a simple pastebin scraper to get the text and more info on a paste
+A simple Pastebin scraper to get the text and more info on pastes
